@@ -126,18 +126,6 @@ Curious by default. I ask too many questions. Occasionally, they turn into proje
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaina-bit&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaina-bit&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
